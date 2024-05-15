@@ -1,3 +1,5 @@
+To run this web app follow these insructions
+
 Step 1:
       Launch a AWS ec2 instance with Ubuntu AMI :
       connect to your instance
