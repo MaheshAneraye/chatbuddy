@@ -20,7 +20,7 @@ step 4:
       sudo apt install python3-pillow -y
 
 step 5:
-      That was pretty simple, right? Now let's make the App live. We just need to start the server now and then we can start using our simple todo App. Start the server by following command:
+      That was pretty simple, right? Now let's make the App live. We just need to start the server now and then we can start using our App. Start the server by following command:
       python3 manage.py runserver 0.0.0.0:8000
       And It's Done...
       
